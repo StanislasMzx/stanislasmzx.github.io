@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'My personal server, running on a Synology NAS, with a lot of services like Nextcloud, Bitwarden, Jellyfin, offsite backups, home automation, etc.',
           imageUrl:
-            'https://www.synology.com/img/company/branding/synology_logo.jpg',
+            'https://cdn.icon-icons.com/icons2/2389/PNG/512/synology_logo_icon_144820.png',
           link: '',
         },
       ],
@@ -131,13 +131,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'Politecnico di Milano',
-      degree: 'MS in Computer Science',
+      degree: 'MS in Computer Science • Cybersecurity • Erasmus',
       from: '2024',
       to: '2025',
     },
     {
       institution: 'Telecom Nancy',
-      degree: 'MS in Computer Science',
+      degree: 'MS in Computer Science • Major in Internet, Systems & Security',
       from: '2022',
       to: '2025',
     },
